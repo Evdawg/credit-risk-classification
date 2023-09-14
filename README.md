@@ -1,7 +1,7 @@
 # Supervised Learning Challenge
 Module 20 Challenge: Supervised learning of credit risk classification data.
 
-Graded __/100
+Graded 95/100
 
 
 ## Report:
